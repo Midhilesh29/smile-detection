@@ -4,5 +4,4 @@
 2. Numpy
 
 ## About the project
-It model detects the whether the given image is neutral image or smiling image. If it is a smiling image it outputs the intensity of smile
-in the range of 0 to 100
+The model detects the whether the given image is neutral image or smiling image. If it is a smiling image it outputs the intensity of smile in the range of 0 to 100
